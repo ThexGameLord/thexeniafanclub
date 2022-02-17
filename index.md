@@ -2,6 +2,7 @@
 title: Home
 permalink: /
 ---
+
 <html>
   <head>
     <title>Home</title>

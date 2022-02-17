@@ -1,3 +1,6 @@
+---
+permalink: /servers
+---
 <html>
   <head>
     <title>servers made</title>
